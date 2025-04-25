@@ -85,6 +85,7 @@ config = {
         "ROOT_DOMAIN": os.getenv("ROOT_DOMAIN"),
         "ROOT_URL": os.getenv("ROOT_URL"),
         "SITE_NAME": data['meta']['title'],
+        "AUTHOR_NAME": data['meta']['author'],
     },
 }
 
