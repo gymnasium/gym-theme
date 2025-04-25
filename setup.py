@@ -38,7 +38,7 @@ setup(
     author_email="help@thegymnasium.com",
     maintainer="Gymnasium",
     maintainer_email="help@thegymnasium.com",
-    description="Gym theme plugin for Tutor",
+    description="Gymnasium theme plugin for Open edX Tutor",
     long_description=load_readme(),
     packages=find_packages(exclude=["tests*"]),
     include_package_data=True,
