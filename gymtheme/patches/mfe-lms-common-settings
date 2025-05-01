@@ -35,3 +35,5 @@ MFE_CONFIG["ENABLE_PROGRESSIVE_PROFILING_ON_AUTHN"] = 'true'
 
 # Gymnasium-specific custom config (https://github.com/gymnasium/tracker/issues/557)
 MFE_CONFIG["ENABLE_ALTERNATE_ENROLLMENT_ALERT"] = 'false'
+
+MFE_CONFIG["API_URL"] = ENV_TOKENS.get("API_URL")
