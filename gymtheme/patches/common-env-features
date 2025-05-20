@@ -1,1 +1,2 @@
 # via gym-theme common-env-features
+ALLOW_PUBLIC_ACCOUNT_CREATION: false
